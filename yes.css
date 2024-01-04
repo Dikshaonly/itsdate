@@ -1,0 +1,24 @@
+body{
+    display:flex;
+    justify-content: center;
+    height: 100px;
+    background-color: papayawhip;
+}
+.header_text{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color: lightsalmon;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    border: 90px;
+    border-radius: 50%;
+    border-color: black;
+}
+.gif_container{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
